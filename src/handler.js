@@ -259,7 +259,7 @@ const getAllBookHandler = () => {
 module.exports = {
     addBookHandler,
     getAllBookHandler,
-    getBookByIdHandler,
+    // getBookByIdHandler,
     // editBooksByIdHandler,
     // deleteBooksByIdHandler,
 };
